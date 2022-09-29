@@ -55,7 +55,7 @@
     "style-loader": "^0.23.1",
     "supertest": "^4.0.2",
     "svg.js": "^2.7.1",
-    "victory": "^32.2.0",
+    "victory": "^36.6.8",
     "webpack": "^4.30.0"
   },
   "devDependencies": {
